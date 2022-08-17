@@ -15,7 +15,7 @@ console.log(data)
 
 
   return (
-    <Grid templateColumns='repeat(3, 1fr)' gap={1}>
+    <Grid templateColumns='repeat(3, 1fr)'>
      {data?.map((el)=>(
        <GridItem>
 

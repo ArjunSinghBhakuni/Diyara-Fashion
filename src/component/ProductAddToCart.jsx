@@ -52,7 +52,7 @@ function Rating({ rating, numReviews } ) {
   );
 }
 
-function ProductAddToCart() {
+function ProductAddToCart({img,price,rating,numReviews,title}) {
   return (
     <Flex p={50} w="full" alignItems="center" justifyContent="center">
       <Box
@@ -73,8 +73,8 @@ function ProductAddToCart() {
         )}
 
         <Image
-          src={data.imageURL}
-          alt={`Picture of ${data.name}`}
+          src={img.img1}
+          alt={`Picture of ${title}`}
           roundedTop="lg"
         />
 
@@ -93,7 +93,7 @@ function ProductAddToCart() {
               as="h4"
               lineHeight="tight"
               isTruncated>
-              {data.name}
+              {title}
             </Box>
             <Tooltip
               label="Add to cart"
@@ -108,12 +108,12 @@ function ProductAddToCart() {
           </Flex>
 
           <Flex justifyContent="space-between" alignContent="center">
-            <Rating rating={data.rating} numReviews={data.numReviews} />
+            <Rating rating={rating} numReviews={numReviews} />
             <Box fontSize="2xl" color={useColorModeValue('gray.800', 'white')}>
               <Box as="span" color={'gray.600'} fontSize="lg">
-                £
+                Rs.
               </Box>
-              {data.price.toFixed(2)}
+              {price}
             </Box>
           </Flex>
         </Box>

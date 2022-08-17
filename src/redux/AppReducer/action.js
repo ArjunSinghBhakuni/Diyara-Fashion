@@ -1,7 +1,7 @@
 import * as types from "./actiontype"
+import axios from "axios";
 
-
-const getMenData = (payload)=(dispatch)=>{
+const getMenData = ()=>(dispatch)=>{
 
  dispatch({ type: types.MEN_DATA_LOADING });
   axios

@@ -1,7 +1,9 @@
 {
-  "men": [
+  "mens": [
    {
      "title": "BRUNELLO CUCINELLI",
+      "rating": 4.2,
+  "numReviews": 34,
      "price": 2005,
      "category": "Jacket",
      "img": {
@@ -14,6 +16,8 @@
    },
    {
      "title": "AURALEE",
+      "rating": 4.2,
+  "numReviews": 34,
      "price": 2405,
      "category": "Jacket",
      "img": {
@@ -26,6 +30,8 @@
    },
    {
      "title": "GABRIELA HEARST",
+      "rating": 4.2,
+  "numReviews": 34,
      "price": 1905,
      "category": "Jacket",
      "img": {
@@ -38,6 +44,8 @@
    },
    {
      "title": "SNOW PEAK",
+      "rating": 4.2,
+  "numReviews": 34,
      "price": 2225,
      "category": "Jacket",
      "img": {
@@ -50,6 +58,8 @@
    },
    {
      "title": "KENZO",
+      "rating": 4.2,
+  "numReviews": 34,
      "price": 2455,
      "category": "Jacket",
     "img": {
@@ -62,6 +72,8 @@
    },
    {
      "title": "STONE ISLAND",
+      "rating": 4.2,
+  "numReviews": 34,
      "price": 2105,
      "category": "Jacket",
      "img": {
@@ -74,6 +86,8 @@
    },
    {
      "title": "SAINT LAURENT",
+      "rating": 4.2,
+  "numReviews": 34,
      "price": 2199,
      "category": "Jacket",
      "img": {
@@ -86,6 +100,8 @@
    },
    {
      "title": "ERMENEGILDO ZEGNA",
+      "rating": 4.2,
+  "numReviews": 34,
      "price": 1999,
      "category": "Jacket",
      "img": {
@@ -98,6 +114,8 @@
    },
    {
      "title": "JUNYA WATANABE",
+      "rating": 4.2,
+  "numReviews": 34,
      "price": 2400,
      "category": "Jacket",
      "img": {
@@ -115,6 +133,8 @@
  
    {
      "title": "ACNE STUDIOS",
+      "rating": 4.2,
+  "numReviews": 34,
      "price": 725,
      "category": "Sweatshirts",
      "img": {
@@ -127,6 +147,8 @@
    },
    {
      "title": "ACNE STUDIOS",
+      "rating": 4.2,
+  "numReviews": 34,
      "price": 955,
      "category": "Sweatshirts",
      "img": {
@@ -139,6 +161,8 @@
    },
    {
      "title": "ALEXANDER MCQUEEN",
+      "rating": 4.2,
+  "numReviews": 34,
      "price": 875,
      "category": "Sweatshirts",
      "img": {
@@ -151,6 +175,8 @@
    },
    {
      "title": "ALEXANDER MCQUEEN",
+      "rating": 4.2,
+  "numReviews": 34,
      "price": 625,
      "category": "Sweatshirts",
      "img": {
@@ -163,6 +189,8 @@
    },
    {
      "title": "AURALEE",
+      "rating": 4.2,
+  "numReviews": 34,
      "price": 1225,
      "category": "Sweatshirts",
      "img": {
@@ -175,6 +203,8 @@
    },
    {
      "title": "SLOVEY",
+      "rating": 4.2,
+  "numReviews": 34,
      "price": 999,
      "category": "Sweatshirts",
      "img": {
@@ -187,6 +217,8 @@
    },
    {
      "title": "SAINT LAURENT",
+      "rating": 4.2,
+  "numReviews": 34,
      "price": 699,
      "category": "Sweatshirts",
      "img": {
@@ -199,6 +231,8 @@
    },
    {
      "title": "ERMENEGILDO ZEGNA",
+      "rating": 4.2,
+  "numReviews": 34,
      "price": 889,
      "category": "Sweatshirts",
      "img": {
@@ -211,6 +245,8 @@
    },
    {
      "title": "JUNYA WATANABE",
+      "rating": 4.2,
+  "numReviews": 34,
      "price": 925,
      "category": "Sweatshirts",
      "img": {
@@ -226,6 +262,8 @@
  
    {
      "title": "GUCCI",
+      "rating": 4.2,
+  "numReviews": 34,
      "price": 495,
      "category": "T-Shirts",
      "img": {
@@ -238,6 +276,8 @@
    },
    {
      "title": "AURALEE",
+      "rating": 4.2,
+  "numReviews": 34,
      "price": 245,
      "category": "T-Shirts",
      "img": {
@@ -250,6 +290,8 @@
    },
    {
      "title": "LOEWE",
+      "rating": 4.2,
+  "numReviews": 34,
      "price": 405,
      "category": "T-Shirts",
      "img": {
@@ -262,6 +304,8 @@
    },
    {
      "title": "GUCCI",
+      "rating": 4.2,
+  "numReviews": 34,
      "price": 405,
      "category": "T-Shirts",
      "img": {
@@ -274,6 +318,8 @@
    },
    {
      "title": "AURALEE",
+      "rating": 4.2,
+  "numReviews": 34,
      "price": 240,
      "category": "T-Shirts",
      "img": {
@@ -286,6 +332,8 @@
    },
    {
      "title": "GIVENCHY",
+      "rating": 4.2,
+  "numReviews": 34,
      "price": 305,
      "category": "T-Shirts",
      "img": {

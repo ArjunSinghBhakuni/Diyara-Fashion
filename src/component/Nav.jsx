@@ -11,7 +11,7 @@ import {Link} from "react-router-dom"
    Home
      </Link>
      </div>
-    <div> <Link to='/men'>
+    <div> <Link to='/mens'>
      Men
      </Link>
      </div>

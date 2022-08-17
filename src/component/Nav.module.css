@@ -1,0 +1,10 @@
+.Nav{
+ display: flex;
+ 
+width: 80rem;
+text-align: center;
+align-items: center;
+ height: 60px;
+ justify-content: space-around;
+ box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}

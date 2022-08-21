@@ -1,4 +1,5 @@
-import * as types from './actiontype'
+import * as types1 from './actiontype'
+ 
 
 const intialState = {
  mens:[],
@@ -10,14 +11,14 @@ const reducer =(state = intialState,{type,payload})=>{
 
  switch(type){
 
-  case types.MEN_DATA_LOADING: {
+  case types1.MEN_DATA_LOADING: {
    return{
     ...state,
     isLoading:true,
     isError:false
    }
   }
-  case types.MEN_DATA_SUCCESS: {
+  case types1.MEN_DATA_SUCCESS: {
    return{
     ...state,
     mens:payload,
@@ -25,7 +26,7 @@ const reducer =(state = intialState,{type,payload})=>{
     isError:false
    }
   }
-  case types.MEN_DATA_FAILURE: {
+  case types1.MEN_DATA_FAILURE: {
    return{
     ...state,
     isLoading:false,

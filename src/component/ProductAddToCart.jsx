@@ -73,7 +73,7 @@ function ProductAddToCart({img,price,rating,numReviews,title}) {
         )}
 
         <Image
-          src={img.img1}
+          src={img.img3}
           alt={`Picture of ${title}`}
           roundedTop="lg"
         />
